@@ -8,14 +8,14 @@ Just download this repository.
 
 ## How to use?
 
-`ruby project_code_analyzer.rb YOUR_PROJECT_PATH KIND_OF_YOUR_CODE`
+`$ ruby project_code_analyzer.rb YOUR_PROJECT_PATH KIND_OF_YOUR_CODE`
 
 ## Examples
 
 * Count the lines of ruby code in current path.
 	
-	`ruby project_code_analyzer.rb . rb`
+	`$ ruby project_code_analyzer.rb . rb`
 
 * Count the lines of python code in Downloads.
 
-	`ruby project_code_analyzer.rb /Users/rongson/Downloads py`
+	`$ ruby project_code_analyzer.rb /Users/rongson/Downloads py`
